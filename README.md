@@ -1,7 +1,6 @@
 master
 
-#<<<<<<< HEAD
+
 feature-A
-#=======
+feature-C
 fix-b
-#>>>>>>> fix-b
